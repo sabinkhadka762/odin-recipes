@@ -1,3 +1,2 @@
 # odin-recipes 
-yo
-djsd
+yo help me
