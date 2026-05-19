@@ -1,2 +1,2 @@
 # odin-recipes 
-yo help me
+I just completed my first project on The Odin Project. After the completion of this project I learned man this like : the proper way to use github and pushing the website to the web. I had some basics of Html but its my first time using commit I got the hang of and I will be using that in my future projects too. thank odin. 
